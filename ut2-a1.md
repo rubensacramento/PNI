@@ -1,4 +1,4 @@
-#<center> Introducción a los Sistemas de Comunicación </center><br>
+#Introducción a los Sistemas de Comunicación </center><br>
 
 ## 1. Defina los tres modos de transmisión.
 
