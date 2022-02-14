@@ -7,6 +7,7 @@
 ## 2. Indique las ventajas de cada tipo de topología de red. <br>
 
 | Topología | Punto de vista físico | Punto de vista lógico|
+| ------------- | ------------- | -------------------------|
 |    Bus    | Se pueden comunicar entre sí directo. |Comparten información |
 |    Anillo  | Los dispositivos están conectados entre sí mediante cadena.| No colisiones|
 | Anillo doble| Confiabilidad y flexibilidad de la red. | 2 anillos independientes, de los cuáles sólo de usa uno en un momento dado|
