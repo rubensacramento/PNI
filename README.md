@@ -97,3 +97,35 @@ Una topología malla
 ## 16. Una red que contiene múltiples concentradores está configurada muy probablemente como una topología en *árbol*
 
 ## 17. Defina el tipo de topología de las siguientes figuras:
+
+Figura 1: Topología bus
+
+Figura 2: Topología bus
+
+Figura 3: Topología estrella estentida 
+
+Figura 4: Topología árbol 
+
+Figura 5: Topología anillo
+
+## 18. Relacione los conceptos siguientes con una topología de red (cada uno se puede aplicar a más de una topología):
+
+a) Topologia de bus, estrella y árbol
+
+b) Topología de estrella y árbol
+
+c) Topología de anillo y bus 
+
+## 19. Cuando alguien hace una llamada telefónica local a otra persona, ¿está usando una configuración de línea punto a punto o multipunto? Explique su respuesta.
+
+En una configuración de línea punto a punto, dos, y únicamente dos, dispositivos se conectan a través de un enlace dedicado.
+
+Sería una de punto a punto ya que la llamada solo se realizó a través de un dispositivo
+
+## 20. ¿Qué modo de transmisión (símplex, semidúplex o full-dúplex) se puede comparar a los siguientes?
+
+a) Semidúplex
+
+b) Full-Dúplex
+
+c) Simplex 
