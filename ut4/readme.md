@@ -32,14 +32,33 @@ El material empleado es el siguiente:
 
 #### ***Desarrollo***. <a name="id4"></a>
 
-En primer lugar, pelaremos el cable como se muestra en la imágen, en nuestro caso usamos unas tijeras e hicimos un pequeño corte en el revestimiento que tiene el cable. Extraemos la parte cortada y separamos los cables para identificarlos. <br>
+En primer lugar, pelaremos el cable como se muestra en la imágen, en nuestro caso usamos unas tijeras e hicimos un pequeño corte en el revestimiento que tiene el cable. Extraemos la parte cortada, separamos los cables para identificarlos, y cortamos los cables que queden de manera uniforme para introducirlos luego en los RJ-45. <br>
 
-<img src="../img/1.jpg"
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/1.jpg" width="300px" height="300px"><br>
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/2.jpg" width="300px" height="300px"><br>
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/3.jpg" width="300px" height="300px"><br>
 
-> ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
+Lo siguiente que haremos será introducir los cables en las clavijas siguiendo la distribución correspondiente de un cable UTP. <br>
 
-Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultades, que pasos hemos seguido para resolverla y los resultados obtenidos.
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/4.jpg" width="300px" height="300px"><br>
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/5.jpg" width="300px" height="300px"><br>
+
+Después de haberlo metido correctamente, crimparemos el cable de manera que, aplicando fuerza escuchemod un "clic"
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/6.jpg" width="300px" height="300px"><br>
+
+Ahora introduciremos el cable en los testers para comprobar que el cable funcione correctamente. Deberíamos ver cómo las luces verdes  de los 2 aparatos del tester coinciden, como veremos a continuación
+
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/7.jpg" width="300px" height="300px"><br>
+
+### ***Para el otro extremo haremos los mismos pasos y comprobaremos que funciones igual***
+
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/8.jpg" width="300px" height="300px"><br>
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/9.jpg" width="300px" height="300px"><br>
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/10.jpg" width="300px" height="300px"><br>
+<img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/11.jpg" width="300px" height="300px"><br>
+
+
 
 #### ***Conclusiones***. <a name="id5"></a>
 
-En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+Las conclusiones que nos llevamos de la práctica es que resulta bastante fácil construir un cable UTP con los utensilios adecuados. Es una práctica muy útil ya que en algún momento necesitaras una modificación a la hora de ajustar el largo de algún cable.
