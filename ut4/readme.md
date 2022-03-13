@@ -32,9 +32,9 @@ El material empleado es el siguiente:
 
 #### ***Desarrollo***. <a name="id4"></a>
 
-En primer lugar, pelaremos el cable como se muestra en la imágen, en nuestro caso usamos unas tijeras e hicimos un pequeño corte en el revestimiento que tiene el cable. Extraemos la parte cortada y separamos los cables para identificarlos.
+En primer lugar, pelaremos el cable como se muestra en la imágen, en nuestro caso usamos unas tijeras e hicimos un pequeño corte en el revestimiento que tiene el cable. Extraemos la parte cortada y separamos los cables para identificarlos. <br>
 
-
+<img src="../img/1.jpg"
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
 
