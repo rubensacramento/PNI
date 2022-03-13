@@ -43,10 +43,10 @@ Lo siguiente que haremos será introducir los cables en las clavijas siguiendo l
 <img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/4.jpg" width="300px" height="300px"><br>
 <img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/5.jpg" width="300px" height="300px"><br>
 
-Después de haberlo metido correctamente, crimparemos el cable de manera que, aplicando fuerza escuchemod un "clic"
+Después de haberlo metido correctamente, crimparemos el cable de manera que, aplicando fuerza escuchemod un "clic"<br>
 <img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/6.jpg" width="300px" height="300px"><br>
 
-Ahora introduciremos el cable en los testers para comprobar que el cable funcione correctamente. Deberíamos ver cómo las luces verdes  de los 2 aparatos del tester coinciden, como veremos a continuación
+Ahora introduciremos el cable en los testers para comprobar que el cable funcione correctamente. Deberíamos ver cómo las luces verdes  de los 2 aparatos del tester coinciden, como veremos a continuación<br>
 
 <img src="https://github.com/rubensacramento/PNI1_ruben/blob/main/ut4/img/7.jpg" width="300px" height="300px"><br>
 
