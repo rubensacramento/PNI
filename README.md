@@ -50,3 +50,50 @@
   |Red celular|Disturbios y violaciones de seguridad||<br>
 
   ## 6. Para una red con n dispositivos, ¿cuál es el número de enlaces de cable necesarios para una malla, un anillo, un bus y una topología en estrella?
+Malla: n(n-1)/2
+
+Anillo: # dispositivos =  # enlaces
+
+Bus: n dispositivos = n+1 enlaces
+
+Estrella: el concentrador, tiene que tener n puertos por n dispositivos.<br>
+
+## 7. Para cada tipo de topología de red, indique las implicaciones de que exista un fallo de un único cable
+
+Malla: si falla un cable se reencamina por los otros.
+
+Estrella: si falla un enlace, solamente ese enlace se ve afectado, los demás permanecen activos.
+
+Árbol: si falla el primer cable, se interrumpe toda la transmición, si no, seguira la red.
+
+Bus: un fallo o ruptura de cualquier cable, interrumpe todas las transmisiones del bus.
+
+Anillo: una ruptura del anillo en cualquier enlace, inhabilita toda la red.
+
+## 8. ¿Qué es una intranet? ¿Qué es Internet?
+
+intranet: es una serie de redes interconectadas.
+
+Internet: es un red de ámbito mundial (World Wide Web)
+
+## 9. ¿Qué topología necesita un controlador central o un concentrador?
+
+Una topología estrella
+
+## 10. La comunicación entre una computadora y un teclado implica una transmisión *simplex*
+
+## 11. En una red con 25 computadoras, ¿qué topología necesitaría el cableado más extenso? 
+
+Una topología malla
+
+## 12. Una topología en árbol es una variación de una topología en *estrella*
+
+## 13. Una conexión *punto a punto* proporciona un enlace dedicado entre dos dispositivos.
+
+## 14. En la transmisión *full-duplex*, la capacidad del canal es siempre compartida por los dos dispositivos que se comunican.
+
+## 15. Una rotura de cable en una topología en *bus* detiene toda la transmisión.
+
+## 16. Una red que contiene múltiples concentradores está configurada muy probablemente como una topología en *árbol*
+
+## 17. Defina el tipo de topología de las siguientes figuras:
